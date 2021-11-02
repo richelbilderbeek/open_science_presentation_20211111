@@ -121,10 +121,14 @@ Caused most stronly by [Gopalakrishna et al., 2021, questionable]:
    * Researchers put their work in the public domain to be read and used by other scientists and the general public
    * Researchers derive satisfaction from the mere act of doing research
 
-
 # Questionable
 
 See [Gopalakrishna et al., 2021, questionable].
+
+# Manifesto for reproducible science
+
+
+[Munafò et al., 2017]
 
 # Registered report
 
@@ -151,6 +155,8 @@ non-COVID-19 preprints [Wicherts, 2021, covid]
 
  * [Hartgerink, 2016] Hartgerink, Chris. "Research practices and assessment of research misconduct." ScienceOpen Research (2016).
 
+ * [Munafò et al., 2017] Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.
+
  * [Simmons et al., 2011] Simmons, Joseph P., Leif D. Nelson, and Uri Simonsohn. "False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant." Psychological science 22.11 (2011): 1359-1366.
 
  * [Soderberg et al., 2021] Soderberg, Courtney K., et al. "Initial evidence of research quality of registered reports compared with the standard publishing model." Nature Human Behaviour 5.8 (2021): 990-997.
@@ -164,5 +170,6 @@ non-COVID-19 preprints [Wicherts, 2021, covid]
  * [Wicherts et al., 2016] Wicherts, Jelte M., et al. "Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking." Frontiers in psychology 7 (2016): 1832.
 
  * [Wicherts, 2017] Wicherts, Jelte M. "The weak spots in contemporary science (and how to fix them)." Animals 7.12 (2017): 90.
+
 
 
