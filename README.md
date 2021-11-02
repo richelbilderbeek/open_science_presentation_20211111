@@ -28,6 +28,12 @@ and four to reviewers to prevent this [Simmons et al., 2011]:
 
 Another example: psi [Wagenmakers et al., 2011].
 
+UNESCO recommends Open Science
+and aims to teach it to the broader scientific
+community (see https://en.unesco.org/science-sustainable-future/open-science)
+
+
+
 # Current research practices
 
 From [Hartgerink, 2016]:
@@ -127,8 +133,13 @@ See [Gopalakrishna et al., 2021, questionable].
 
 # Manifesto for reproducible science
 
+Threats to reproducible science [Munafò et al., 2017]:
 
-[Munafò et al., 2017]
+![](munafo_et_al_2017.png)
+
+Solutions to encourage reproducible science [Munafò et al., 2017]:
+
+![](munafo_et_al_2017_table_1.png)
 
 # Registered report
 
