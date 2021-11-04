@@ -3,7 +3,8 @@
 My presentation on Open Science on 2021-11-11
 
  * Problem: irreproducible research
-   * Anything can be significant ([Simmons et al., 2011])
+   * Most published research findings are false [Ioannidis, 2005]
+   * Anything can be significant [Simmons et al., 2011]
  * What are threats to reproducible research?
    * Threats to reproducible science [Munafò et al., 2017]
  * Why do people do this? 
@@ -19,6 +20,24 @@ My presentation on Open Science on 2021-11-11
    * See Manifesto [Munafò et al., 2017]
    * Validity of Open Science: UNESCO endorses it
 
+
+# Definition
+
+From [Fraser et al., 2018]:
+
+ * Cherry picking includes failing to report dependent or response variables or
+   relationships that did not reach statistical significance or other threshold and/or failing to
+   report conditions or treatments that did not reach statistical significance or other threshold. 
+ * P hacking refers to a set of activities: checking the statistical significance of results 
+   before deciding whether to collect more data; stopping data collection early because results reached 
+   statistical significance; deciding whether to exclude data points (e.g., outliers) 
+   only after checking the
+   impact on statistical significance and not reporting the impact of the data exclusion; adjusting
+   statistical models, for instance by including or excluding covariates based on the resulting
+   strength of the main effect of interest; and rounding of a p value to meet a statistical significance threshold (e.g., presenting 0.053 as P < .05). 
+ * HARKing includes presenting ad hoc and/
+   or unexpected findings as though they had been predicted all along [19]; and presenting
+   exploratory work as though it was confirmatory hypothesis testing [20].
 
  
 # Problem
@@ -46,10 +65,13 @@ and four to reviewers to prevent this [Simmons et al., 2011]:
 
 Another example: psi [Wagenmakers et al., 2011].
 
+
+
 UNESCO recommends Open Science
 and aims to teach it to the broader scientific
 community (see https://en.unesco.org/science-sustainable-future/open-science)
 
+![Picture from https://en.wikipedia.org/wiki/File:Osc2021-unesco-open-science-no-gray.png](Osc2021-unesco-open-science-no-gray)
 
 
 # Current research practices
@@ -60,6 +82,10 @@ From [Hartgerink, 2016]:
  * Transparent practices, facilitated by the Open Science Framework, help embody scientific norms that promote responsible conduct.
  * Questionable research practices harm the research process and work counter to the generally accepted scientific norms, but are hard to detect.
  * Research misconduct requires active scrutiny of the research community because editors and peer-reviewers do not pay adequate attention to detecting this. Tips are given on how to improve your detection of potential problems.
+
+From [Fraser et al., 2018]:
+
+![](fraser_et_al_2018_fig_1.png)
 
 # HARK
 
@@ -161,11 +187,32 @@ Solutions to encourage reproducible science [Munafò et al., 2017]:
 
 # Registered report
 
+From Chambers, What’s next for Registered Reports?, https://www.nature.com/articles/d41586-019-02674-6:
+
+![From https://www.nature.com/articles/d41586-019-02674-6](chambers_nature_registered_reports.jpg)
+
+Registered report pipeline, from https://www.elsevier.com/connect/editors-update/cortexs-registered-reports:
+
+![From https://www.elsevier.com/connect/editors-update/cortexs-registered-reports](Registered-Reports_EditorialPipeline.jpg)
+
+Registered report workflow, from https://www.cos.io/initiatives/registered-reports
+
+![From https://www.cos.io/initiatives/registered-reports](registered_reports.width-800.png)
+
 Registered report have a higher quality, quote from [Soderberg et al., 2021]:
 
 > RRs numerically outperformed comparison papers on all 19 criteria (mean difference 0.46, scale range −4 to +4) with effects ranging from RRs being statistically indistinguishable from comparison papers in novelty (0.13, 95% credible interval [−0.24, 0.49]) and creativity (0.22, [−0.14, 0.58]) to sizeable improvements in rigour of methodology (0.99, [0.62, 1.35]) and analysis (0.97, [0.60, 1.34]) and overall paper quality (0.66, [0.30, 1.02]). 
 
 ![](soderberg_et_al_2021.png)
+
+# Projects
+
+From 'Five things about open and reproducible science that every early career researcher should know'
+by Daniel Quintana, https://osf.io/ftkq8/
+
+![From https://osf.io/ftkq8/](reproducibiity_relocates_time.2400x2400.jpeg)
+
+
 
 # Examples of a hypothesis in a registered report
 
@@ -222,15 +269,23 @@ Good enough practices in scientific computing [Wilson et al, 2017]:
    * Write manuscripts using online tools with rich formatting, change tracking, and reference management.
    * Write the manuscript in a plain text format that permits version control.
 
+## Links
+
+ * Open Science list of literature: https://osf.io/kgnva/wiki/Open%20Science%20Literature/
+
 ## References
 
  * [Aczel et al., 2020] Aczel, Balazs, et al. "A consensus-based transparency checklist." Nature human behaviour 4.1 (2020): 4-6.
+
+ * [Fraser et al., 2018] Fraser, Hannah, et al. "Questionable research practices in ecology and evolution." PloS one 13.7 (2018): e0200303.
 
  * [Gopalakrishna et al., 2021, questionable] Gopalakrishna, Gowri, et al. "Prevalence of questionable research practices, research misconduct and their potential explanatory factors: a survey among academic researchers in The Netherlands." (2021).
 
  * [Gopalakrishna et al., 2021, recommended] Gopalakrishna, Gowri, et al. "Prevalence of responsible research practices and their potential explanatory factors: a survey among academic researchers in The Netherlands." (2021).
 
  * [Hartgerink, 2016] Hartgerink, Chris. "Research practices and assessment of research misconduct." ScienceOpen Research (2016).
+
+ * [Ioannidis, 2005] Ioannidis, John PA. "Why most published research findings are false." PLoS medicine 2.8 (2005): e124.
 
  * [Munafò et al., 2017] Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.
 
@@ -249,4 +304,5 @@ Good enough practices in scientific computing [Wilson et al, 2017]:
  * [Wicherts, 2017] Wicherts, Jelte M. "The weak spots in contemporary science (and how to fix them)." Animals 7.12 (2017): 90.
 
  * [Wilson et al, 2017] Wilson, Greg, et al. "Good enough practices in scientific computing." PLoS computational biology 13.6 (2017): e1005510.
+
 
