@@ -2,6 +2,24 @@
 
 My presentation on Open Science on 2021-11-11
 
+ * Problem: irreproducible research
+   * Anything can be significant ([Simmons et al., 2011])
+ * What are threats to reproducible research?
+   * Threats to reproducible science [Munafò et al., 2017]
+ * Why do people do this? 
+   * Publication pressure and scientific norms [Gopalakrishna et al., 2021, questionable]
+   * From [Hartgerink, 2016]:
+     * Researchers systematically evaluate their own conduct as more responsible than colleagues, but not as responsible as they would like
+     * Intransparent practices, thus hard to detect questionable research practices
+     * Inadequate attention by editors and peer reviewers 
+ * How to counteract this problem?
+   * The registered report: 
+   * Registered report have a higher quality [Soderberg et al., 2021]
+ * What is Open Science?
+   * See Manifesto [Munafò et al., 2017]
+   * Validity of Open Science: UNESCO endorses it
+
+
  
 # Problem
 
@@ -47,8 +65,7 @@ From [Hartgerink, 2016]:
 
 From [Wicherts, 2017]:
 
-> But besides fabricating data, there is another more mundane manner to cut through the empirical cycle and this strategy is called Hypothesizing after Results are Known or HARKing [10]. In one version of this strategy, the researcher collects a wealthy dataset and subsequently goes on a fishing expedition to find patterns that meet a significance threshold or appear meaningful on other grounds. Such fishing expeditions might uncover meaningful patterns, but they normally harvest old shoes that might appear impressive at first, but are fairly useless on closer inspection. Exploring data guarantees that one finds some extreme. I
-
+> But besides fabricating data, there is another more mundane manner to cut through the empirical cycle and this strategy is called Hypothesizing after Results are Known or HARKing [10]. In one version of this strategy, the researcher collects a wealthy dataset and subsequently goes on a fishing expedition to find patterns that meet a significance threshold or appear meaningful on other grounds. Such fishing expeditions might uncover meaningful patterns, but they normally harvest old shoes that might appear impressive at first, but are fairly useless on closer inspection. Exploring data guarantees that one finds some extreme.
 
 # Transparency
 
@@ -108,6 +125,7 @@ A checklist of 34 degrees of freedom researchers have (from [Wicherts et al., 20
  * Presenting exploratory analyses as confirmatory (HARKing)
 
 Caused most stronly by [Gopalakrishna et al., 2021, questionable]:
+
 
  * Positive: publication pressure
    * I feel a pressure to publish
