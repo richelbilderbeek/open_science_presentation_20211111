@@ -277,6 +277,8 @@ Good enough practices in scientific computing [Wilson et al, 2017]:
 
  * [Aczel et al., 2020] Aczel, Balazs, et al. "A consensus-based transparency checklist." Nature human behaviour 4.1 (2020): 4-6.
 
+ * [Allen and Mehler, 2019] Allen, Christopher, and David MA Mehler. "Open science challenges, benefits and tips in early career and beyond." PLoS biology 17.5 (2019): e3000246.
+
  * [Fraser et al., 2018] Fraser, Hannah, et al. "Questionable research practices in ecology and evolution." PloS one 13.7 (2018): e0200303.
 
  * [Gopalakrishna et al., 2021, questionable] Gopalakrishna, Gowri, et al. "Prevalence of questionable research practices, research misconduct and their potential explanatory factors: a survey among academic researchers in The Netherlands." (2021).
